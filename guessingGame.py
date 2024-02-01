@@ -21,4 +21,4 @@ for counts in range(1, 6):
         print(f"Total won: {won}")
         print(f"Total loss: {loss}")
 
-print("Your attempts are finished. ")
+print(f"Your attempts are finished.\nBetter luck next time.")
