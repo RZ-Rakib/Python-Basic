@@ -1,4 +1,5 @@
-from random import randint
+from random import randint # randint generate new int between the limit, 
+                           # but ramdom() generate float betwwen 0-1
 
 count = 0
 won = 0
