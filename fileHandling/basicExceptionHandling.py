@@ -8,7 +8,7 @@ try:
 except ZeroDivisionError:
     print(f"Error! Divided by zero is not allowed")
 except ValueError:
-    print(f"Error! Enter a valid number")
+    raise ValueError(f"Error! Enter a valid number")
 else:
     print(f"The sum of {num1} / {num2} = {result}")
 finally:

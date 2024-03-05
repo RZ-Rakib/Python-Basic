@@ -7,5 +7,5 @@ print(a * b)
 print(a / b) 
 print(a % b)
 
-print(a // b) # for get the floor number
+print(a // b) # for get the floor number after dividation
 print(a**b) # exponentiate
