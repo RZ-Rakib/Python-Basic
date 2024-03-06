@@ -1,7 +1,7 @@
 class Country:
     capitalCity = ""
     continent = ""
-
+# methods
     def setValue(self, nCapitalCity, nContinent): # self is a convention used as the first parameter in the method of a class
         self.capitalCity = nCapitalCity
         self.continent = nContinent
