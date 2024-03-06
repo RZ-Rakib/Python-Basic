@@ -18,4 +18,4 @@ i.call()
 i.message()
 i.photo()
 
-print(issubclass(Iphone, Phone))
+print(issubclass(Iphone, Phone)) # to check is Iphone is a sub class of Phone or not?
