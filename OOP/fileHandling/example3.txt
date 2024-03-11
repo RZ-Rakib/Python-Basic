@@ -1,2 +1,0 @@
-
-I am using append function and my name is new file example3.txt
