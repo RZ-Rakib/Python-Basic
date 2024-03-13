@@ -30,7 +30,7 @@ class Duck(Animal, CanFly, CanSwim):
 bird_instance = Bird("Parrot")
 duck_instance = Duck("Duffy")
 
-# calling methods from multiple inherited classes
+# calling methods from multiple inherited classes by using object
 print(bird_instance.Speak())
 print(bird_instance.fly())
 
